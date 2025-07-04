@@ -1,2 +1,2 @@
 # yyyoink-portal
-application:Marketing and User Management Frontend
+application:Marketing and User Management Portal
